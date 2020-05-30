@@ -57,212 +57,212 @@
 
 
 # > ABC
-- DOMAIN-SUFFIX,edgedatg.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,go.com,🍃 🍃 Proxy
+- DOMAIN-SUFFIX,edgedatg.com,🍃 Proxy
+- DOMAIN-SUFFIX,go.com,🍃 Proxy
 
 # > Abema TV
-# - USER-AGENT,AbemaTV*,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,abema.io,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,abema.tv,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,akamaized.net,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,ameba.jp,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,hayabusa.io,🍃 🍃 Proxy
+# - USER-AGENT,AbemaTV*,🍃 Proxy
+- DOMAIN-SUFFIX,abema.io,🍃 Proxy
+- DOMAIN-SUFFIX,abema.tv,🍃 Proxy
+- DOMAIN-SUFFIX,akamaized.net,🍃 Proxy
+- DOMAIN-SUFFIX,ameba.jp,🍃 Proxy
+- DOMAIN-SUFFIX,hayabusa.io,🍃 Proxy
 
 # > Amazon Prime Video
-# - USER-AGENT,InstantVideo.US*,🍃 🍃 Proxy
-# - USER-AGENT,Prime%20Video*,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,aiv-cdn.net,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,amazonaws.co.uk,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,amazonaws.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,amazonvideo.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,llnwd.net,🍃 🍃 Proxy
+# - USER-AGENT,InstantVideo.US*,🍃 Proxy
+# - USER-AGENT,Prime%20Video*,🍃 Proxy
+- DOMAIN-SUFFIX,aiv-cdn.net,🍃 Proxy
+- DOMAIN-SUFFIX,amazonaws.co.uk,🍃 Proxy
+- DOMAIN-SUFFIX,amazonaws.com,🍃 Proxy
+- DOMAIN-SUFFIX,amazonvideo.com,🍃 Proxy
+- DOMAIN-SUFFIX,llnwd.net,🍃 Proxy
 
 # > Apple News and Apple Map TOMTOM Version
-# - USER-AGENT,AppleNews*,🍃 🍃 Proxy
-# - USER-AGENT,com.apple.news*,🍃 🍃 Proxy
-- DOMAIN,gspe1-ssl.ls.apple.com,🍃 🍃 Proxy
-# - USER-AGENT,News*,🍃 🍃 Proxy
-# - DOMAIN,apple.comscoreresearch.com,🍃 🍃 Proxy
-# - DOMAIN,gateway.icloud.com,🍃 🍃 Proxy
-# - DOMAIN,news-client.apple.com,🍃 🍃 Proxy
-# - DOMAIN,news-edge.apple.com,🍃 🍃 Proxy
-# - DOMAIN,news-events.apple.com,🍃 🍃 Proxy
-# - DOMAIN-SUFFIX,apple.news,🍃 🍃 Proxy
+# - USER-AGENT,AppleNews*,🍃 Proxy
+# - USER-AGENT,com.apple.news*,🍃 Proxy
+- DOMAIN,gspe1-ssl.ls.apple.com,🍃 Proxy
+# - USER-AGENT,News*,🍃 Proxy
+# - DOMAIN,apple.comscoreresearch.com,🍃 Proxy
+# - DOMAIN,gateway.icloud.com,🍃 Proxy
+# - DOMAIN,news-client.apple.com,🍃 Proxy
+# - DOMAIN,news-edge.apple.com,🍃 Proxy
+# - DOMAIN,news-events.apple.com,🍃 Proxy
+# - DOMAIN-SUFFIX,apple.news,🍃 Proxy
 
 # > Apple TV
-- DOMAIN,np-edge.itunes.apple.com,🍃 🍃 Proxy
-- DOMAIN,play-edge.itunes.apple.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,tv.apple.com,🍃 🍃 Proxy
+- DOMAIN,np-edge.itunes.apple.com,🍃 Proxy
+- DOMAIN,play-edge.itunes.apple.com,🍃 Proxy
+- DOMAIN-SUFFIX,tv.apple.com,🍃 Proxy
 
 # > Bahamut
-# - USER-AGENT,Anime*,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,bahamut.com.tw,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,gamer.com.tw,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,hinet.net,🍃 🍃 Proxy
+# - USER-AGENT,Anime*,🍃 Proxy
+- DOMAIN-SUFFIX,bahamut.com.tw,🍃 Proxy
+- DOMAIN-SUFFIX,gamer.com.tw,🍃 Proxy
+- DOMAIN-SUFFIX,hinet.net,🍃 Proxy
 
 # > BBC iPlayer
-# - USER-AGENT,BBCiPlayer*,🍃 🍃 Proxy
-- DOMAIN-KEYWORD,bbcfmt,🍃 🍃 Proxy
-- DOMAIN,aod-dash-uk-live.akamaized.net,🍃 🍃 Proxy
-- DOMAIN,aod-hls-uk-live.akamaized.net,🍃 🍃 Proxy
-- DOMAIN,vod-dash-uk-live.akamaized.net,🍃 🍃 Proxy
-- DOMAIN,vod-thumb-uk-live.akamaized.net,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,bbc.co,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,bbc.co.uk,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,bbc.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,bbci.co,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,bbci.co.uk,🍃 🍃 Proxy
+# - USER-AGENT,BBCiPlayer*,🍃 Proxy
+- DOMAIN-KEYWORD,bbcfmt,🍃 Proxy
+- DOMAIN,aod-dash-uk-live.akamaized.net,🍃 Proxy
+- DOMAIN,aod-hls-uk-live.akamaized.net,🍃 Proxy
+- DOMAIN,vod-dash-uk-live.akamaized.net,🍃 Proxy
+- DOMAIN,vod-thumb-uk-live.akamaized.net,🍃 Proxy
+- DOMAIN-SUFFIX,bbc.co,🍃 Proxy
+- DOMAIN-SUFFIX,bbc.co.uk,🍃 Proxy
+- DOMAIN-SUFFIX,bbc.com,🍃 Proxy
+- DOMAIN-SUFFIX,bbcfmt.hs.llnwd.net,🍃 Proxy
+- DOMAIN-SUFFIX,bbci.co,🍃 Proxy
+- DOMAIN-SUFFIX,bbci.co.uk,🍃 Proxy
 
 # > DAZN
-- DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,dazn.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,dazn-api.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,dazndn.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,indazn.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,intercom.io,🍃 🍃 Proxy
+- DOMAIN-SUFFIX,d151l6v8er5bdm.cloudfront.net,🍃 Proxy
+- DOMAIN-SUFFIX,dazn.com,🍃 Proxy
+- DOMAIN-SUFFIX,dazn-api.com,🍃 Proxy
+- DOMAIN-SUFFIX,dazndn.com,🍃 Proxy
+- DOMAIN-SUFFIX,indazn.com,🍃 Proxy
+- DOMAIN-SUFFIX,intercom.io,🍃 Proxy
 
 # > Disney Plus
-# - USER-AGENT,Disney*,🍃 🍃 Proxy
-- DOMAIN,cdn.registerdisney.go.com,🍃 🍃 Proxy
-- DOMAIN,cdn.cdn.unid.go.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,bamgrid.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,braze.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,conviva.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,disney.demdex.net,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,disneyplus.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,disney-plus.net,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,dssott.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com,🍃 🍃 Proxy
+# - USER-AGENT,Disney*,🍃 Proxy
+- DOMAIN,cdn.registerdisney.go.com,🍃 Proxy
+- DOMAIN,cdn.cdn.unid.go.com,🍃 Proxy
+- DOMAIN-SUFFIX,bamgrid.com,🍃 Proxy
+- DOMAIN-SUFFIX,braze.com,🍃 Proxy
+- DOMAIN-SUFFIX,conviva.com,🍃 Proxy
+- DOMAIN-SUFFIX,disney.demdex.net,🍃 Proxy
+- DOMAIN-SUFFIX,disneyplus.com,🍃 Proxy
+- DOMAIN-SUFFIX,disney-plus.net,🍃 Proxy
+- DOMAIN-SUFFIX,dssott.com,🍃 Proxy
+- DOMAIN-SUFFIX,execute-api.us-east-1.amazonaws.com,🍃 Proxy
 
 # > encoreTVB
-# - USER-AGENT,encoreTVB*,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,encoretvb.com,🍃 🍃 Proxy
-- DOMAIN,content.jwplatform.com,🍃 🍃 Proxy
-- DOMAIN,videos-f.jwpsrv.com,🍃 🍃 Proxy
+# - USER-AGENT,encoreTVB*,🍃 Proxy
+- DOMAIN-SUFFIX,encoretvb.com,🍃 Proxy
+- DOMAIN,content.jwplatform.com,🍃 Proxy
+- DOMAIN,videos-f.jwpsrv.com,🍃 Proxy
 
 # > Fox Now
-# - USER-AGENT,FOX%20NOW*,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,fox.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,foxdcg.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,uplynk.com,🍃 🍃 Proxy
+# - USER-AGENT,FOX%20NOW*,🍃 Proxy
+- DOMAIN-SUFFIX,fox.com,🍃 Proxy
+- DOMAIN-SUFFIX,foxdcg.com,🍃 Proxy
+- DOMAIN-SUFFIX,uplynk.com,🍃 Proxy
 
 # > Fox+ (HK|TW|SG)
-# - USER-AGENT,FOXPlus*,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,akamaized.net,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,foxplus.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,theplatform.com,🍃 🍃 Proxy
+# - USER-AGENT,FOXPlus*,🍃 Proxy
+- DOMAIN-SUFFIX,akamaized.net,🍃 Proxy
+- DOMAIN-SUFFIX,foxplus.com,🍃 Proxy
+- DOMAIN-SUFFIX,theplatform.com,🍃 Proxy
 
 # > HBO NOW & HBO GO
-# - USER-AGENT,HBO%20NOW*,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,hbo.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,hboasia.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,hbogo.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,hbogoasia.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,hbogoasia.hk,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,hbonow.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,hbomax.com,🍃 🍃 Proxy
+# - USER-AGENT,HBO%20NOW*,🍃 Proxy
+- DOMAIN-SUFFIX,execute-api.ap-southeast-1.amazonaws.com,🍃 Proxy
+- DOMAIN-SUFFIX,hbo.com,🍃 Proxy
+- DOMAIN-SUFFIX,hboasia.com,🍃 Proxy
+- DOMAIN-SUFFIX,hbogo.com,🍃 Proxy
+- DOMAIN-SUFFIX,hbogoasia.com,🍃 Proxy
+- DOMAIN-SUFFIX,hbogoasia.hk,🍃 Proxy
+- DOMAIN-SUFFIX,hbonow.com,🍃 Proxy
+- DOMAIN-SUFFIX,hbomax.com,🍃 Proxy
 
 # > Hulu(フールー)
-- DOMAIN-SUFFIX,happyon.jp,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,hulu.jp,🍃 🍃 Proxy
+- DOMAIN-SUFFIX,happyon.jp,🍃 Proxy
+- DOMAIN-SUFFIX,hulu.jp,🍃 Proxy
 
 # > Hulu
-- DOMAIN-SUFFIX,hulu.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,huluim.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,hulustream.com,🍃 🍃 Proxy
+- DOMAIN-SUFFIX,hulu.com,🍃 Proxy
+- DOMAIN-SUFFIX,huluim.com,🍃 Proxy
+- DOMAIN-SUFFIX,hulustream.com,🍃 Proxy
 
 # > Japonx
-- DOMAIN-KEYWORD,japonx,🍃 🍃 Proxy
-- DOMAIN-KEYWORD,japronx,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,japonx.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,japonx.tv,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,japonx.net,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,japonx.vip,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,japronx.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,japronx.tv,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,japronx.net,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,japronx.vip,🍃 🍃 Proxy
+- DOMAIN-KEYWORD,japonx,🍃 Proxy
+- DOMAIN-KEYWORD,japronx,🍃 Proxy
+- DOMAIN-SUFFIX,japonx.com,🍃 Proxy
+- DOMAIN-SUFFIX,japonx.tv,🍃 Proxy
+- DOMAIN-SUFFIX,japonx.net,🍃 Proxy
+- DOMAIN-SUFFIX,japonx.vip,🍃 Proxy
+- DOMAIN-SUFFIX,japronx.com,🍃 Proxy
+- DOMAIN-SUFFIX,japronx.tv,🍃 Proxy
+- DOMAIN-SUFFIX,japronx.net,🍃 Proxy
+- DOMAIN-SUFFIX,japronx.vip,🍃 Proxy
 
 # > JOOX
-# - USER-AGENT,WeMusic*,🍃 🍃 Proxy
-# - USER-AGENT,JOOX*,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,joox.com,🍃 🍃 Proxy
+# - USER-AGENT,WeMusic*,🍃 Proxy
+# - USER-AGENT,JOOX*,🍃 Proxy
+- DOMAIN-SUFFIX,joox.com,🍃 Proxy
 
 # > KKBOX
-- DOMAIN-SUFFIX,kkbox.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,kkbox.com.tw,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,kfs.io,🍃 🍃 Proxy
+- DOMAIN-SUFFIX,kkbox.com,🍃 Proxy
+- DOMAIN-SUFFIX,kkbox.com.tw,🍃 Proxy
+- DOMAIN-SUFFIX,kfs.io,🍃 Proxy
 
 # > KKTV
-# - USER-AGENT,KKTV*,🍃 🍃 Proxy
-# - USER-AGENT,com.kktv*,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,kktv.me,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,kktv.com.tw,🍃 🍃 Proxy
-- DOMAIN,kktv-theater.kk.stream,🍃 🍃 Proxy
+# - USER-AGENT,KKTV*,🍃 Proxy
+# - USER-AGENT,com.kktv*,🍃 Proxy
+- DOMAIN-SUFFIX,kktv.me,🍃 Proxy
+- DOMAIN-SUFFIX,kktv.com.tw,🍃 Proxy
+- DOMAIN,kktv-theater.kk.stream,🍃 Proxy
 
 # > Line TV
-# - USER-AGENT,LINE*,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,linetv.tw,🍃 🍃 Proxy
+# - USER-AGENT,LINE*,🍃 Proxy
+- DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net,🍃 Proxy
+- DOMAIN-SUFFIX,linetv.tw,🍃 Proxy
 
 # > myTV_SUPER
-# - USER-AGENT,mytv*,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,mytvsuper.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,tvb.com,🍃 🍃 Proxy
+# - USER-AGENT,mytv*,🍃 Proxy
+- DOMAIN-SUFFIX,mytvsuper.com,🍃 Proxy
+- DOMAIN-SUFFIX,tvb.com,🍃 Proxy
 
 # > Pandora
-- DOMAIN-SUFFIX,pandora.com,🍃 🍃 Proxy
+- DOMAIN-SUFFIX,pandora.com,🍃 Proxy
 
 # > PBS
-# - USER-AGENT,PBS*,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,pbs.org,🍃 🍃 Proxy
+# - USER-AGENT,PBS*,🍃 Proxy
+- DOMAIN-SUFFIX,pbs.org,🍃 Proxy
 
 # > Pornhub
-- DOMAIN-SUFFIX,phncdn.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,phprcdn.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,pornhub.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,pornhubpremium.com,🍃 🍃 Proxy
+- DOMAIN-SUFFIX,phncdn.com,🍃 Proxy
+- DOMAIN-SUFFIX,phprcdn.com,🍃 Proxy
+- DOMAIN-SUFFIX,pornhub.com,🍃 Proxy
+- DOMAIN-SUFFIX,pornhubpremium.com,🍃 Proxy
 
 # > SoundCloud
-# - USER-AGENT,SoundCloud*,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,sndcdn.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,soundcloud.com,🍃 🍃 Proxy
+# - USER-AGENT,SoundCloud*,🍃 Proxy
+- DOMAIN-SUFFIX,sndcdn.com,🍃 Proxy
+- DOMAIN-SUFFIX,soundcloud.com,🍃 Proxy
 
 # > ViuTV
-# - USER-AGENT,ViuTV*,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,bootstrapcdn.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,cloudfront.net,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,firebaseio.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,jwpcdn.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,jwplayer.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,nowe.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,viu.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,viu.tv,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,viu.now.com,🍃 🍃 Proxy
+# - USER-AGENT,ViuTV*,🍃 Proxy
+- DOMAIN-SUFFIX,bootstrapcdn.com,🍃 Proxy
+- DOMAIN-SUFFIX,cloudfront.net,🍃 Proxy
+- DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com,🍃 Proxy
+- DOMAIN-SUFFIX,firebaseio.com,🍃 Proxy
+- DOMAIN-SUFFIX,jwpcdn.com,🍃 Proxy
+- DOMAIN-SUFFIX,jwplayer.com,🍃 Proxy
+- DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com,🍃 Proxy
+- DOMAIN-SUFFIX,nowe.com,🍃 Proxy
+- DOMAIN-SUFFIX,viu.com,🍃 Proxy
+- DOMAIN-SUFFIX,viu.tv,🍃 Proxy
+- DOMAIN-SUFFIX,viu.now.com,🍃 Proxy
 
 # > Youtube Music
-# - USER-AGENT,*YouTubeMusic*,🍃 🍃 Proxy
-# - USER-AGENT,*com.google.ios.youtubemusic*,🍃 🍃 Proxy
+# - USER-AGENT,*YouTubeMusic*,🍃 Proxy
+# - USER-AGENT,*com.google.ios.youtubemusic*,🍃 Proxy
 
 # > Youtube
-# - USER-AGENT,*youtube*,🍃 🍃 Proxy
-# - USER-AGENT,YouTube*,🍃 🍃 Proxy
-- DOMAIN-KEYWORD,youtube,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,googlevideo.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,gvt2.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,youtu.be,🍃 🍃 Proxy
+# - USER-AGENT,*youtube*,🍃 Proxy
+# - USER-AGENT,YouTube*,🍃 Proxy
+- DOMAIN-KEYWORD,youtube,🍃 Proxy
+- DOMAIN-SUFFIX,googlevideo.com,🍃 Proxy
+- DOMAIN-SUFFIX,gvt2.com,🍃 Proxy
+- DOMAIN-SUFFIX,youtu.be,🍃 Proxy
 
 
 
 # > 📺 奈飞
 # - USER-AGENT,Argo*,📺 奈飞
-- DOMAIN,📺 奈飞.com.edgesuite.net,📺 奈飞
-- DOMAIN-SUFFIX,📺 奈飞.com,📺 奈飞
-- DOMAIN-SUFFIX,📺 奈飞.net,📺 奈飞
+- DOMAIN,netflix.com.edgesuite.net,📺 奈飞
+- DOMAIN-SUFFIX,netflix.com,📺 奈飞
+- DOMAIN-SUFFIX,netflix.net,📺 奈飞
 - DOMAIN-SUFFIX,nflxext.com,📺 奈飞
 - DOMAIN-SUFFIX,nflximg.com,📺 奈飞
 - DOMAIN-SUFFIX,nflximg.net,📺 奈飞
@@ -1184,25 +1184,25 @@
 
 
 # > Telegram
-- DOMAIN-SUFFIX,t.me,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,tdesktop.com,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,telegra.ph,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,🍃 🍃 Proxy.me,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,🍃 🍃 Proxy.org,🍃 🍃 Proxy
-- IP-CIDR,91.108.0.0/16,🍃 🍃 Proxy
-- IP-CIDR,109.239.140.0/24,🍃 🍃 Proxy
-- IP-CIDR,149.154.160.0/20,🍃 🍃 Proxy
-- IP-CIDR6,2001:67c:4e8::/48,🍃 🍃 Proxy
-- IP-CIDR6,2001:b28:f23d::/48,🍃 🍃 Proxy
-- IP-CIDR6,2001:b28:f23f::/48,🍃 🍃 Proxy
+- DOMAIN-SUFFIX,t.me,🍃 Proxy
+- DOMAIN-SUFFIX,tdesktop.com,🍃 Proxy
+- DOMAIN-SUFFIX,telegra.ph,🍃 Proxy
+- DOMAIN-SUFFIX,🍃 Proxy.me,🍃 Proxy
+- DOMAIN-SUFFIX,🍃 Proxy.org,🍃 Proxy
+- IP-CIDR,91.108.0.0/16,🍃 Proxy
+- IP-CIDR,109.239.140.0/24,🍃 Proxy
+- IP-CIDR,149.154.160.0/20,🍃 Proxy
+- IP-CIDR6,2001:67c:4e8::/48,🍃 Proxy
+- IP-CIDR6,2001:b28:f23d::/48,🍃 Proxy
+- IP-CIDR6,2001:b28:f23f::/48,🍃 Proxy
 
 
 
 # > Fast
-- DOMAIN-SUFFIX,fast.com,🍃 🍃 Proxy
+- DOMAIN-SUFFIX,fast.com,🍃 Proxy
 # > Speedtest by Ookla
-- DOMAIN-KEYWORD,speedtest,🍃 🍃 Proxy
-- DOMAIN-SUFFIX,ooklaserver.net,🍃 🍃 Proxy
+- DOMAIN-KEYWORD,speedtest,🍃 Proxy
+- DOMAIN-SUFFIX,ooklaserver.net,🍃 Proxy
 
 
 # > Microsoft
