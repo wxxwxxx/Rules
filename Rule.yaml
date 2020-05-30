@@ -1260,11 +1260,11 @@
 - DOMAIN-SUFFIX,smartmailcloud.com,🍃 Proxy
 
 # > Steam
-- DOMAIN-SUFFIX,fanatical.com,Steam
-- DOMAIN-SUFFIX,humblebundle.com,Steam
-- DOMAIN-SUFFIX,steamcommunity.com,Steam
-- DOMAIN-SUFFIX,steampowered.com,Steam
-- DOMAIN-SUFFIX,steamstatic.com,Steam
+- DOMAIN-SUFFIX,fanatical.com,💰 PP&Steam
+- DOMAIN-SUFFIX,humblebundle.com,💰 PP&Steam
+- DOMAIN-SUFFIX,steamcommunity.com,💰 PP&Steam
+- DOMAIN-SUFFIX,steampowered.com,💰 PP&Steam
+- DOMAIN-SUFFIX,steamstatic.com,💰 PP&Steam
 
 # > Top blocked sites
 - DOMAIN-SUFFIX,2o7.net,🍃 Proxy
